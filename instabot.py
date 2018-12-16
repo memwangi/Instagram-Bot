@@ -172,7 +172,7 @@ class InstagramBot():
 
 
 
-bot = InstagramBot('ebookshopke', 'walterSTRIDER007')
+bot = InstagramBot('yourusername', 'password')
 bot.followAndLikeByLocation()
 
         
